@@ -42,8 +42,17 @@
   * DS jobs in the media sector pay the highest, closely followed by Legal, IT, and Biotech
   * Jobs in CA pay the most 
   * On average, machine learning engineers and data scientists are paid more than data analysts, data   engineers, managers
+
+
   
   <img width="332" alt="Screen Shot 2023-02-21 at 11 25 12 AM" src="https://user-images.githubusercontent.com/108362965/220441319-2e9b840e-364d-4262-a3d6-c6adeed8d5e3.png">
 
+
+## Model Building 
+
+* Tried three different models:
+  *  Multiple Linear Regression – Baseline for the model
+  *  Lasso Regression – Normalized regression
+  *  Random Forest - Performed the best, most likely due to the sparsity of the data
 
 
